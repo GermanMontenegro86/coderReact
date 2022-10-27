@@ -1,0 +1,16 @@
+.carrito{
+    font-size: 2em;
+    transform: translate(600px,0px);
+    
+    
+    }
+    
+    @media screen and (max-width: 1024px){
+        .carrito{
+            font-size: 2em;
+            transform: translate(0px,0px);
+        }
+    }
+    
+    
+    
